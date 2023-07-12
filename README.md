@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakib Howladar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://38.media.tumblr.com/b15e4d7331b6d2941819ac59a1826c02/tumblr_nhv22weV8g1u1rc7to1_1280.gif" alt="Coding" align="right" width="400">
+<img src="https://38.media.tumblr.com/b15e4d7331b6d2941819ac59a1826c02/tumblr_nhv22weV8g1u1rc7to1_1280.gif" alt="Coding" align="right" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakib-howladar&label=Profile%20views&color=0e75b6&style=flat" alt="rakib-howladar" /> </p>
 
